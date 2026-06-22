@@ -1,4 +1,4 @@
-# Power BI Dashboard Project
+# PowerBI-Portfolio-Project
 
 ## Overview
 
